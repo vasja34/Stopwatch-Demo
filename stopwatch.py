@@ -7,7 +7,7 @@ cross_img = b"iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAACXBIWXMAAAsSAAALEg
 
 def create_window():
     """
-        It creates a window 300x300 pixels with a few elements in it.
+        It creates a window of size 300x300 pixels with a few elements in it.
         The window has no titlebar and has a button called "Start" and a button called "Lap".
         The "Lap" button is not visible.
 
